@@ -23,7 +23,7 @@
     {
       "id": 6,
       "value": "lob6"
-    },
+    }
   ],
   "brands": [
     {
@@ -49,7 +49,7 @@
     {
       "id": 6,
       "value": "brand6"
-    },
+    }
   ],
   "series": [
     {
@@ -75,7 +75,7 @@
     {
       "id": 6,
       "value": "series6"
-    },
+    }
   ],  
   "subseries": [
     {
@@ -101,7 +101,7 @@
     {
       "id": 6,
       "value": "subseries6"
-    },
+    }
   ],
   "metadata": [
     {
