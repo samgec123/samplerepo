@@ -1,305 +1,122 @@
 {
-   "lobs":[
-      {
-         "id":1,
-         "value":"lob1",
-         "brands":[
-            {
-               "id":1,
-               "value":"brand1",
-               "series":[
-                  {
-                     "id":1,
-                     "value":"series1",
-                     "subseries":[
-                        {
-                           "id":1,
-                           "value":"subseries1",
-                           "metadata":[
-                              {
-                                 "metadata1":"metadata-val1",
-                                 "metadata2":"metadata-val2",
-                                 "metadata3":"metadata-val3",
-                                 "metadata12":"metadata-val12"
-                              }
-                           ]
-                        },
-                        {
-                           "id":2,
-                           "value":"subseries2"
-                        },
-                        {
-                           "id":3,
-                           "value":"subseries3",
-                           "metadata":[
-                              {
-                                 "metadata1":"metadata-val1",
-                                 "metadata2":"metadata-val2",
-                                 "metadata11":"metadata-val11",
-                                 "metadata12":"metadata-val12"
-                              }
-                           ]
-                        },
-                        {
-                           "id":4,
-                           "value":"subseries4"
-                        },
-                        {
-                           "id":5,
-                           "value":"subseries5"
-                        },
-                        {
-                           "id":6,
-                           "value":"subseries6"
-                        }
-                     ]
-                  },
-                  {
-                     "id":2,
-                     "value":"series2",
-                     "subseries":[
-                        {
-                           "id":1,
-                           "value":"subseries1"
-                        },
-                        {
-                           "id":2,
-                           "value":"subseries2"
-                        },
-                        {
-                           "id":3,
-                           "value":"subseries3"
-                        },
-                        {
-                           "id":4,
-                           "value":"subseries4"
-                        },
-                        {
-                           "id":5,
-                           "value":"subseries5"
-                        },
-                        {
-                           "id":6,
-                           "value":"subseries6"
-                        }
-                     ]
-                  },
-                  {
-                     "id":3,
-                     "value":"series3",
-                     "subseries":[
-                        {
-                           "id":1,
-                           "value":"subseries1"
-                        },
-                        {
-                           "id":2,
-                           "value":"subseries2"
-                        },
-                        {
-                           "id":3,
-                           "value":"subseries3"
-                        },
-                        {
-                           "id":4,
-                           "value":"subseries4"
-                        },
-                        {
-                           "id":5,
-                           "value":"subseries5"
-                        },
-                        {
-                           "id":6,
-                           "value":"subseries6"
-                        }
-                     ]
-                  }
-               ]
-            },
-            {
-               "id":2,
-               "value":"brand2",
-               "series":[
-                  {
-                     "id":1,
-                     "value":"series1",
-                     "subseries":[
-                        {
-                           "id":1,
-                           "value":"subseries1"
-                        },
-                        {
-                           "id":2,
-                           "value":"subseries2"
-                        },
-                        {
-                           "id":6,
-                           "value":"subseries6"
-                        }
-                     ]
-                  },
-                  {
-                     "id":2,
-                     "value":"series2"
-                  },
-                  {
-                     "id":3,
-                     "value":"series3",
-                     "subseries":[
-                        {
-                           "id":1,
-                           "value":"subseries1"
-                        },
-                        {
-                           "id":2,
-                           "value":"subseries2"
-                        },
-                        {
-                           "id":6,
-                           "value":"subseries6"
-                        }
-                     ]
-                  }
-               ]
-            }
-         ]
-      },
-      {
-         "id":2,
-         "value":"lob2",
-         "brands":[
-            {
-               "id":1,
-               "value":"brand1",
-               "series":[
-                  {
-                     "id":1,
-                     "value":"series1",
-                     "subseries":[
-                        {
-                           "id":1,
-                           "value":"subseries1",
-                           "metadata":[
-                              {
-                                 "metadata1":"metadata-val1",
-                                 "metadata12":"metadata-val12"
-                              }
-                           ]
-                        },
-                        {
-                           "id":2,
-                           "value":"subseries2"
-                        },
-                        {
-                           "id":3,
-                           "value":"subseries3",
-                           "metadata":[
-                              {
-                                 "metadata1":"metadata-val1",
-                                 "metadata2":"metadata-val2",
-                                 "metadata12":"metadata-val12"
-                              }
-                           ]
-                        },
-                        {
-                           "id":4,
-                           "value":"subseries4"
-                        },
-                        {
-                           "id":5,
-                           "value":"subseries5"
-                        },
-                        {
-                           "id":6,
-                           "value":"subseries6"
-                        }
-                     ]
-                  },
-                  {
-                     "id":2,
-                     "value":"series2",
-                     "subseries":[
-                        {
-                           "id":1,
-                           "value":"subseries1"
-                        },
-                        {
-                           "id":6,
-                           "value":"subseries6"
-                        }
-                     ]
-                  },
-                  {
-                     "id":3,
-                     "value":"series3",
-                     "subseries":[
-                        {
-                           "id":6,
-                           "value":"subseries6"
-                        }
-                     ]
-                  }
-               ]
-            },
-            {
-               "id":2,
-               "value":"brand2",
-               "series":[
-                  {
-                     "id":1,
-                     "value":"series1",
-                     "subseries":[
-                        {
-                           "id":1,
-                           "value":"subseries1"
-                        },
-                        {
-                           "id":2,
-                           "value":"subseries2"
-                        },
-                        {
-                           "id":6,
-                           "value":"subseries6"
-                        }
-                     ]
-                  },
-                  {
-                     "id":2,
-                     "value":"series2"
-                  },
-                  {
-                     "id":3,
-                     "value":"series3",
-                     "subseries":[
-                        {
-                           "id":1,
-                           "value":"subseries1"
-                        },
-                        {
-                           "id":2,
-                           "value":"subseries2"
-                        },
-                        {
-                           "id":3,
-                           "value":"subseries3"
-                        },
-                        {
-                           "id":4,
-                           "value":"subseries4"
-                        },
-                        {
-                           "id":5,
-                           "value":"subseries5"
-                        },
-                        {
-                           "id":6,
-                           "value":"subseries6"
-                        }
-                     ]
-                  }
-               ]
-            }
-         ]
-      }
-   ]
+  "lobs": [
+    {
+      "id": 1,
+      "value": "lob1"
+    },
+    {
+      "id": 2,
+      "value": "lob2"
+    },
+    {
+      "id": 3,
+      "value": "lob3"
+    },
+    {
+      "id": 4,
+      "value": "lob4"
+    },
+    {
+      "id": 5,
+      "value": "lob5"
+    },
+    {
+      "id": 6,
+      "value": "lob6"
+    }
+  ],
+  "brands": [
+    {
+      "id": 1,
+      "value": "brand1"
+    },
+    {
+      "id": 2,
+      "value": "brand2"
+    },
+    {
+      "id": 3,
+      "value": "brand3"
+    },
+    {
+      "id": 4,
+      "value": "brand4"
+    },
+    {
+      "id": 5,
+      "value": "brand5"
+    },
+    {
+      "id": 6,
+      "value": "brand6"
+    }
+  ],
+  "series": [
+    {
+      "id": 1,
+      "value": "series1"
+    },
+    {
+      "id": 2,
+      "value": "series2"
+    },
+    {
+      "id": 3,
+      "value": "series3"
+    },
+    {
+      "id": 4,
+      "value": "series4"
+    },
+    {
+      "id": 5,
+      "value": "series5"
+    },
+    {
+      "id": 6,
+      "value": "series6"
+    }
+  ],  
+  "subseries": [
+    {
+      "id": 1,
+      "value": "subseries1"
+    },
+    {
+      "id": 2,
+      "value": "subseries2"
+    },
+    {
+      "id": 3,
+      "value": "subseries3"
+    },
+    {
+      "id": 4,
+      "value": "subseries4"
+    },
+    {
+      "id": 5,
+      "value": "subseries5"
+    },
+    {
+      "id": 6,
+      "value": "subseries6"
+    }
+  ],
+  "metadata": [
+    {
+      "metadata1": "metadata-val1",
+	  "metadata2": "metadata-val2",
+	  "metadata3": "metadata-val3",
+	  "metadata4": "metadata-val4",
+	  "metadata5": "metadata-val5",
+	  "metadata6": "metadata-val6",
+	  "metadata7": "metadata-val7",
+	  "metadata8": "metadata-val8",
+	  "metadata9": "metadata-val9",
+	  "metadata10": "metadata-val10",
+	  "metadata11": "metadata-val11",
+	  "metadata12": "metadata-val12"
+    } 
+  ]
 }
