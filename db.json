@@ -133,18 +133,6 @@
                            "value":"subseries2"
                         },
                         {
-                           "id":3,
-                           "value":"subseries3"
-                        },
-                        {
-                           "id":4,
-                           "value":"subseries4"
-                        },
-                        {
-                           "id":5,
-                           "value":"subseries5"
-                        },
-                        {
                            "id":6,
                            "value":"subseries6"
                         }
@@ -165,18 +153,6 @@
                         {
                            "id":2,
                            "value":"subseries2"
-                        },
-                        {
-                           "id":3,
-                           "value":"subseries3"
-                        },
-                        {
-                           "id":4,
-                           "value":"subseries4"
-                        },
-                        {
-                           "id":5,
-                           "value":"subseries5"
                         },
                         {
                            "id":6,
@@ -206,8 +182,6 @@
                            "metadata":[
                               {
                                  "metadata1":"metadata-val1",
-                                 "metadata2":"metadata-val2",
-                                 "metadata3":"metadata-val3",
                                  "metadata12":"metadata-val12"
                               }
                            ]
@@ -250,22 +224,6 @@
                            "value":"subseries1"
                         },
                         {
-                           "id":2,
-                           "value":"subseries2"
-                        },
-                        {
-                           "id":3,
-                           "value":"subseries3"
-                        },
-                        {
-                           "id":4,
-                           "value":"subseries4"
-                        },
-                        {
-                           "id":5,
-                           "value":"subseries5"
-                        },
-                        {
                            "id":6,
                            "value":"subseries6"
                         }
@@ -275,26 +233,6 @@
                      "id":3,
                      "value":"series3",
                      "subseries":[
-                        {
-                           "id":1,
-                           "value":"subseries1"
-                        },
-                        {
-                           "id":2,
-                           "value":"subseries2"
-                        },
-                        {
-                           "id":3,
-                           "value":"subseries3"
-                        },
-                        {
-                           "id":4,
-                           "value":"subseries4"
-                        },
-                        {
-                           "id":5,
-                           "value":"subseries5"
-                        },
                         {
                            "id":6,
                            "value":"subseries6"
@@ -318,18 +256,6 @@
                         {
                            "id":2,
                            "value":"subseries2"
-                        },
-                        {
-                           "id":3,
-                           "value":"subseries3"
-                        },
-                        {
-                           "id":4,
-                           "value":"subseries4"
-                        },
-                        {
-                           "id":5,
-                           "value":"subseries5"
                         },
                         {
                            "id":6,
